@@ -6,9 +6,9 @@ This repository contains diagrams of the conceptual model for our database.
 
 You can contribute in two ways:
 
-1. Contribute in discussions by creating issuesand participating in issue discussions suggesting improvements of terms/definitions and the relationships between the entities of the conceptual model.
+1. Contribute in discussions by creating issues and participating in issue discussions suggesting improvements.
 
-2. By updating the diagrams. You can edit the diagram by loading the links.
+2. By updating the diagram. You can edit the diagram by loading the links.
 
 # Conceptual diagram
 
