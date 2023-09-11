@@ -1,14 +1,6 @@
 # PARC - A6.2.1 - Conceptual model for database
 
-This repository contains diagrams of the conceptual model for our database.
-
-# Contributing
-
-You can contribute in two ways:
-
-1. Contribute in discussions by creating issues and participating in issue discussions suggesting improvements.
-
-2. By updating the diagram. You can edit the diagram by loading the link (see bellow).
+This repository contains diagrams of the conceptual model for our database, which should be used in work at Anses.
 
 # Conceptual diagram
 
